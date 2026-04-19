@@ -2,7 +2,7 @@
 
 > My first Python project — a simple program that stores and displays personal information.
 
-**Author:** [Your Name]
+**Author:** Priyanka Jayarama
 **Week:** 1 — Python Basics
 
 ---
