@@ -63,6 +63,4 @@ See `test_inputs.txt` for the full list of test cases.
 **Challenge 3:** User input came in with inconsistent capitalization (e.g., `PIZZA` vs `pizza`).
 **Solution:** Used `.capitalize()` when displaying the values so output always looks tidy.
 
----
 
-## 📁 Project Structure
